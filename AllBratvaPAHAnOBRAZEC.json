@@ -1,0 +1,1291 @@
+
+			{
+                "Result": "EFC_st_T2_IMP_Jacket_Gorka_Black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить куртка комплекта Пахан до 2 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T1_IMP_Jacket_Gorka_Black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Reinforced",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Fleece",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_FuelAndLubrs_Cricket",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medicines_BandageArmy",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPSewing_machine"
+				]
+			},
+			{
+                "Result": "EFC_st_T2_IMP_Pants_Military_Black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить штаны комплекта Пахан до 2 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T1_IMP_Pants_Military_Black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Reinforced",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Fleece",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_FuelAndLubrs_Cricket",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medicines_BandageArmy",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T2_MMG_tactical_helmet_black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить ШЛЕМ комплекта Пахан до 2 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T1_MMG_tactical_helmet_black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_bolts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Copper",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_DuctTape",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Line",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_nuts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_BuildMats_Izolenta",
+                        "Amount": 50,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_plate1",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_ThinTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T2_ballisticvest_black_bandit_kupola_XZone",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить броня комплекта Пахан до 2 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T1_ballisticvest_black_bandit_kupola_XZone",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_bolts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Copper",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_plate2",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Aramid",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_BuildMats_Izolenta",
+                        "Amount": 300,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Tools_MetalScissors",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "SFP_SVD_Belt",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T3_IMP_Jacket_Gorka_Black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить куртка комплекта Пахан до 3 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T2_IMP_Jacket_Gorka_Black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Reinforced",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Fleece",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_FuelAndLubrs_Cricket",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medicines_BandageArmy",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T3_IMP_Pants_Military_Black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить штаны комплекта Пахан до 3 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T2_IMP_Pants_Military_Black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Reinforced",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Fleece",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_FuelAndLubrs_Cricket",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medicines_BandageArmy",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T3_MMG_tactical_helmet_black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить ШЛЕМ комплекта Пахан до 3 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T2_MMG_tactical_helmet_black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_bolts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Copper",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_DuctTape",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Line",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_nuts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_BuildMats_Izolenta",
+                        "Amount": 100,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_plate2",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_ThinTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T3_ballisticvest_black_bandit_kupola_XZone",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить броня комплекта Пахан до 3 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T2_ballisticvest_black_bandit_kupola_XZone",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_bolts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Copper",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_plate3",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Aramid",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_BuildMats_Izolenta",
+                        "Amount": 400,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Tools_MetalScissors",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "SFP_SVD_Belt",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T4_IMP_Jacket_Gorka_Black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить куртка комплекта Пахан до 4 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T3_IMP_Jacket_Gorka_Black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Reinforced",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Fleece",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_FuelAndLubrs_Cricket",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medicines_BandageArmy",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T4_IMP_Pants_Military_Black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить штаны комплекта Пахан до 4 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T3_IMP_Pants_Military_Black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Reinforced",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Fleece",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_FuelAndLubrs_Cricket",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medicines_BandageArmy",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T4_MMG_tactical_helmet_black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить ШЛЕМ комплекта Пахан до 4 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T3_MMG_tactical_helmet_black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_bolts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Copper",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_DuctTape",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Line",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_nuts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_BuildMats_Izolenta",
+                        "Amount": 100,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_plate3",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_ThinTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T4_ballisticvest_black_bandit_kupola_XZone",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить броня комплекта Пахан до 4 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T3_ballisticvest_black_bandit_kupola_XZone",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_bolts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Copper",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_plate4",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Aramid",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_BuildMats_Izolenta",
+                        "Amount": 400,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Tools_MetalScissors",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "SFP_SVD_Belt",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T5_IMP_Jacket_Gorka_Black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить куртка комплекта Пахан до 5 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T4_IMP_Jacket_Gorka_Black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Reinforced",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Fleece",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_FuelAndLubrs_Cricket",
+                        "Amount": 5,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medicines_BandageArmy",
+                        "Amount": 5,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T5_IMP_Pants_Military_Black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить штаны комплекта Пахан до 5 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T4_IMP_Pants_Military_Black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Reinforced",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Fleece",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_FuelAndLubrs_Cricket",
+                        "Amount": 5,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 3,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medicines_BandageArmy",
+                        "Amount": 5,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T5_MMG_tactical_helmet_black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить ШЛЕМ комплекта Пахан до 5 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T4_MMG_tactical_helmet_black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_bolts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Copper",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_DuctTape",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Line",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_nuts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_BuildMats_Izolenta",
+                        "Amount": 100,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_plate4",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_ThinTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
+			{
+                "Result": "EFC_st_T5_ballisticvest_black_bandit_kupola_XZone",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Улучшить броня комплекта Пахан до 5 уровня",
+                "CraftComponents": [
+                    {
+                        "Classname": "EFC_st_T4_ballisticvest_black_bandit_kupola_XZone",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_bolts",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Camouflage",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Fabric_Green",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Copper",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_Glue",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_plate5",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "CJ_Materials_threads",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Other_Cloth_Aramid",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_BuildMats_Izolenta",
+                        "Amount": 400,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Medical_MedsTools",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EFS_Tools_MetalScissors",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "SFP_SVD_Belt",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+				]
+			},
